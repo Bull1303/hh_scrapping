@@ -32,7 +32,10 @@ for vacancy in serp_item_tag:
     vacancy_company_tag = vacancy_body_tag.find(
         "div", class_="vacancy-serp-item-company"
     )
-    company_name_tag = vacancy_company_tag.find("a")
+    if vacancy_company_tag.find("a") is None:
+        company_name_tag = vacancy_company_tag.find("div", class_="vacancy-serp-item__meta-info-company")
+    else:
+        company_name_tag = vacancy_company_tag.find("a")
     company_name = company_name_tag.text.replace("\xa0", " ")  # Название компании
     vacancy_address = vacancy_company_tag.find_all("div", "bloko-text")
 

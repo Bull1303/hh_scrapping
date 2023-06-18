@@ -28,38 +28,38 @@
     "company_address": "Москва, Савёловская, Башиловская улица, 12"
   },
   {
-    "vacancy_name": "Python Developer",
-    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
-    "salary": "150 000 – 200 000 руб.",
-    "company_name": "B.ART",
-    "company_address": "Москва"
-  },
-  {
-    "vacancy_name": "Python Developer",
-    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
-    "salary": "150 000 – 200 000 руб.",
-    "company_name": "B.ART",
-    "company_address": "Москва"
-  },
-  {
-    "vacancy_name": "Программист Python",
-    "link": "https://spb.hh.ru/vacancy/80598196?from=vacancy_search_list&query=python",
-    "salary": "до 300 000 руб.",
-    "company_name": "ООО АВ Софт",
-    "company_address": "Москва, Окружная, Гостиничная улица, 5"
-  },
-  {
-    "vacancy_name": "Программист Python",
-    "link": "https://spb.hh.ru/vacancy/81552693?from=vacancy_search_list&query=python",
-    "salary": "Зарплата не указана",
-    "company_name": "ООО Абсолют-Трейд",
-    "company_address": "Москва"
-  },
-  {
     "vacancy_name": "Middle+ Python Developer (backend)",
     "link": "https://spb.hh.ru/vacancy/81587055?from=vacancy_search_list&query=python",
     "salary": "250 000 – 300 000 руб.",
     "company_name": "ООО Агент Умный полис",
     "company_address": "Санкт-Петербург, Василеостровская, Спортивная, Уральская улица, 1К2"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+    "salary": "150 000 – 200 000 руб.",
+    "company_name": "B.ART",
+    "company_address": "Москва"
+  },
+  {
+    "vacancy_name": "Python Developer",
+    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=python",
+    "salary": "150 000 – 200 000 руб.",
+    "company_name": "B.ART",
+    "company_address": "Москва"
+  },
+  {
+    "vacancy_name": "Middle Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/82040028?from=vacancy_search_list&query=python",
+    "salary": "140 000 – 250 000 руб.",
+    "company_name": "AERODISK",
+    "company_address": "Москва, Калужская, Калужско-Рижская линия, метро Калужская"
+  },
+  {
+    "vacancy_name": "Middle Python-разработчик",
+    "link": "https://spb.hh.ru/vacancy/82040028?from=vacancy_search_list&query=python",
+    "salary": "140 000 – 250 000 руб.",
+    "company_name": "AERODISK",
+    "company_address": "Москва, Калужская, Калужско-Рижская линия, метро Калужская"
   }
 ]
